@@ -19,4 +19,4 @@ Trước đây cũng có ứng dụng báo lịch IUH của tác giả Tran Hong
 5. Page này hỗ trợ thiết lập lịch học cho sinh viên trường ĐH Công Nghiệp nhằm hỗ trợ các bạn muốn chủ động sắp xếp lịch trình dễ dàng hơn.
 6. Mặc dù không lưu trữ thông tin trên máy chủ, nhưng chúng tôi không đảm bảo việc máy chủ có thể bị hack dẫn đến lịch trình bị sai hoặc các trường hợp ngoài ý muốn. Trong trường hợp này, chúng tôi không chịu trách nhiệm dưới mọi hình thức.
 7. Lịch học IUH hoàn toàn không yêu cầu cung cấp thông tin cá nhân (tài khoản và mật khẩu). Nếu bạn vô tình phát hiện một trang có chức năng tương tự, hãy cẩn trọng khi cung cấp các thông tin nhạy cảm.
-8. Các domain được xác nhận có trong dự án **Schendar**: `1boxstudios.cf`, `1boxstudios.com`, `dtbao.io.vn`
+8. Các domain được xác nhận có trong dự án **Schendar**: `1boxstudios.cf` (bị xoá từ tháng 02/2024), `1boxstudios.com`, `dtbao.io.vn`
