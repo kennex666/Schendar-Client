@@ -1,1 +1,241 @@
-function _0x2a92(){var _0x43b5a3=['urlLichHocThi','preventDefault','disabled','https://sv.ut.edu.vn/tra-cuu-thong-tin.html','select','onload','btnSubmit','data','search','log','sltSchool','innerText','href','{}.constructor(\x22return\x20this\x22)(\x20)','console','5PUzNCY','urlLichHoc','1858635EzITAZ','alertMsg','Trường\x20Đại\x20học\x20Công\x20Nghiệp\x20TP.HCM','copy','info','onlyExams','status','location','error','Trường\x20Đại\x20học\x20Giao\x20Thông\x20Vận\x20Tải\x20TP.HCM','hostname','toLowerCase','show','onsubmit','8URsjLH','https://sv.ut.edu.vn/tra-cuu/lich-hoc-tuan.html?k=','urlLichThi','(((.+)+)+)+$','btnLichThiCopy','trim','7722690uZPiDc','lblTrangTraCuu','errMsg','formInputUrl','innerHTML','trace','120669wMbdOe','<span\x20class=\x22spinner-border\x20spinner-border-sm\x22\x20role=\x22status\x22\x20aria-hidden=\x22true\x22></span>\x20Loading...','replace','https://phongdaotao.ntt.edu.vn/tra-cuu/lich-hoc-tuan.html?k=','Chưa\x20chọn\x20trường!','toString','onclick','modalShowLich','Modal','https://sv.iuh.edu.vn/tra-cuu/lich-hoc-tuan.html?k=','Tạo\x20lịch','txtKLichHoc','842562TaGgUd','&k=','length','setItem','getItem','Copied!','lblUrl','urlChuan','classList','modalThongTin','constructor','Trường\x20Đại\x20học\x20Gia\x20Định','\x5c$&','35SwFLSI','btnLichHocCopy','prototype','Kiểm\x20tra\x20lại\x20trường\x20học\x20của\x20bạn!','https://phongdaotao.ntt.edu.vn/tra-cuu-thong-tin.html','447870emGRuA','lblKLichHoc','31320jgPrPw','d-none','__proto__','Trường\x20Đại\x20học\x20Nguyễn\x20Tất\x20Thành','&o=gntk','return\x20(function()\x20','frmGetLichHoc','value','(=([^&#]*)|&|#|$)','https://sinhvien.giadinh.edu.vn/tra-cuu-thong-tin.html','notiVer','getElementById','remove','add','table','warn','ntt','bind','1217464IxYVDq','exec'];_0x2a92=function(){return _0x43b5a3;};return _0x2a92();}var _0x1d585a=_0x5bad;(function(_0x5868fd,_0x4759b0){var _0x43e840=_0x5bad,_0x4368e7=_0x5868fd();while(!![]){try{var _0x524109=-parseInt(_0x43e840(0x108))/0x1+-parseInt(_0x43e840(0x128))/0x2+-parseInt(_0x43e840(0x114))/0x3+parseInt(_0x43e840(0x13a))/0x4*(-parseInt(_0x43e840(0xec))/0x5)+-parseInt(_0x43e840(0x126))/0x6*(-parseInt(_0x43e840(0x121))/0x7)+parseInt(_0x43e840(0xfc))/0x8*(-parseInt(_0x43e840(0xee))/0x9)+parseInt(_0x43e840(0x102))/0xa;if(_0x524109===_0x4759b0)break;else _0x4368e7['push'](_0x4368e7['shift']());}catch(_0x545fd3){_0x4368e7['push'](_0x4368e7['shift']());}}}(_0x2a92,0x35156));var _0x5096d7=(function(){var _0x3765f1=!![];return function(_0xab45c2,_0x20fe9a){var _0x10cbb2=_0x3765f1?function(){if(_0x20fe9a){var _0x30e55e=_0x20fe9a['apply'](_0xab45c2,arguments);return _0x20fe9a=null,_0x30e55e;}}:function(){};return _0x3765f1=![],_0x10cbb2;};}()),_0x658b41=_0x5096d7(this,function(){var _0x229024=_0x5bad;return _0x658b41[_0x229024(0x10d)]()[_0x229024(0xe5)](_0x229024(0xff))[_0x229024(0x10d)]()[_0x229024(0x11e)](_0x658b41)['search'](_0x229024(0xff));});_0x658b41();var _0x430e84=(function(){var _0x2776da=!![];return function(_0x4b4667,_0xa73ede){var _0x2e6e6f=_0x2776da?function(){if(_0xa73ede){var _0x4aace7=_0xa73ede['apply'](_0x4b4667,arguments);return _0xa73ede=null,_0x4aace7;}}:function(){};return _0x2776da=![],_0x2e6e6f;};}()),_0x527469=_0x430e84(this,function(){var _0xd79798=_0x5bad,_0x12a81a=function(){var _0x5c6a25=_0x5bad,_0x34eef2;try{_0x34eef2=Function(_0x5c6a25(0x12d)+_0x5c6a25(0xea)+');')();}catch(_0x102379){_0x34eef2=window;}return _0x34eef2;},_0x54718c=_0x12a81a(),_0x27a094=_0x54718c[_0xd79798(0xeb)]=_0x54718c[_0xd79798(0xeb)]||{},_0x724e1d=[_0xd79798(0xe6),_0xd79798(0x137),_0xd79798(0xf2),_0xd79798(0xf6),'exception',_0xd79798(0x136),_0xd79798(0x107)];for(var _0x3391d7=0x0;_0x3391d7<_0x724e1d[_0xd79798(0x116)];_0x3391d7++){var _0x177ace=_0x430e84['constructor'][_0xd79798(0x123)][_0xd79798(0x139)](_0x430e84),_0x160b52=_0x724e1d[_0x3391d7],_0x91abfa=_0x27a094[_0x160b52]||_0x177ace;_0x177ace[_0xd79798(0x12a)]=_0x430e84[_0xd79798(0x139)](_0x430e84),_0x177ace['toString']=_0x91abfa['toString'][_0xd79798(0x139)](_0x91abfa),_0x27a094[_0x160b52]=_0x177ace;}});_0x527469();function _0x5bad(_0x19f5bc,_0x3ab29a){var _0x52c062=_0x2a92();return _0x5bad=function(_0x527469,_0x430e84){_0x527469=_0x527469-0xe2;var _0x3ff163=_0x52c062[_0x527469];return _0x3ff163;},_0x5bad(_0x19f5bc,_0x3ab29a);}const x01277=![];function copyURL(_0x831785){var _0x69e327=_0x5bad,_0x339ebc=_0x831785;_0x339ebc[_0x69e327(0x140)](),document['execCommand'](_0x69e327(0xf1)),alert(_0x69e327(0x119));}const x01629=()=>{if(!x01277)debugger;};setInterval(()=>{x01629();},0xa);function getParameterByName(_0x530a56,_0x5161bc=window[_0x1d585a(0xf5)][_0x1d585a(0xe9)]){var _0x17f966=_0x1d585a;_0x530a56=_0x530a56[_0x17f966(0x10a)](/[\[\]]/g,_0x17f966(0x120));var _0xf6ce7d=new RegExp('[?&]'+_0x530a56+_0x17f966(0x130)),_0x46dd3e=_0xf6ce7d[_0x17f966(0x13b)](_0x5161bc);if(!_0x46dd3e)return null;if(!_0x46dd3e[0x2])return'';return decodeURIComponent(_0x46dd3e[0x2][_0x17f966(0x10a)](/\+/g,'\x20'));}const schoolInformation=[{'sc':'iuh','name':_0x1d585a(0xf0),'tc':'https://sv.iuh.edu.vn/tra-cuu-thong-tin.html','urlChuan':_0x1d585a(0x111)},{'sc':'ut','name':_0x1d585a(0xf7),'tc':_0x1d585a(0x13f),'urlChuan':_0x1d585a(0xfd)},{'sc':'gdu','name':_0x1d585a(0x11f),'tc':_0x1d585a(0x131),'urlChuan':'https://sinhvien.giadinh.edu.vn/tra-cuu/lich-hoc-tuan.html?k='},{'sc':_0x1d585a(0x138),'name':_0x1d585a(0x12b),'tc':_0x1d585a(0x125),'urlChuan':_0x1d585a(0x10b)}],$=document;var onChangeSchool=()=>{var _0x370c9c=_0x1d585a;let _0x30cc06=sltSchool[_0x370c9c(0x12f)];if(_0x30cc06==-0x1||!schoolInformation[_0x30cc06]){txtKLichHoc[_0x370c9c(0x13e)]=!![],btnSubmit[_0x370c9c(0x13e)]=![],formInputUrl[_0x370c9c(0x11c)]['add']('d-none'),lblTrangTraCuu['classList'][_0x370c9c(0x135)](_0x370c9c(0x129));return;}formInputUrl[_0x370c9c(0x11c)][_0x370c9c(0x134)](_0x370c9c(0x129)),lblTrangTraCuu[_0x370c9c(0x11c)][_0x370c9c(0x134)]('d-none'),txtKLichHoc[_0x370c9c(0x13e)]=![],btnSubmit[_0x370c9c(0x13e)]=![],lblUrl[_0x370c9c(0xe9)]=schoolInformation[_0x30cc06]['tc'],lblKLichHoc[_0x370c9c(0xe8)]=schoolInformation[_0x30cc06][_0x370c9c(0x11b)];},loadingSubmit=_0x536d49=>{var _0x3f0d77=_0x1d585a;_0x536d49==!![]?(btnSubmit[_0x3f0d77(0x106)]=_0x3f0d77(0x109),btnSubmit['disabled']=!![]):(btnSubmit[_0x3f0d77(0x106)]=_0x3f0d77(0x112),btnSubmit[_0x3f0d77(0x13e)]=![]);};const getHostname=_0x395e5c=>{var _0x3bb4cc=_0x1d585a;return new URL(_0x395e5c)[_0x3bb4cc(0xf8)];};var onSubmitFrmLicHoc=_0x23b54a=>{var _0x301c02=_0x1d585a;_0x23b54a[_0x301c02(0x13d)](),loadingSubmit(!![]),getSchendar();},showErrorDialog=_0xcd4b55=>{var _0x41839b=_0x1d585a;errMsg[_0x41839b(0xe8)]=_0xcd4b55,alertMsg[_0x41839b(0x11c)][_0x41839b(0x135)](_0x41839b(0xfa)),alertMsg[_0x41839b(0x11c)]['remove'](_0x41839b(0x129)),loadingSubmit(![]);},getSchendar=async()=>{var _0x30ac0b=_0x1d585a;if(!schoolInformation[sltSchool[_0x30ac0b(0x12f)]]){showErrorDialog(_0x30ac0b(0x10c));return;}if(!txtKLichHoc[_0x30ac0b(0x12f)]){showErrorDialog('Chưa\x20điền\x20đủ\x20thông\x20tin,\x20hãy\x20kiểm\x20tra\x20lại!');return;}let _0x1ccd00=getParameterByName('k',txtKLichHoc['value']);if(!_0x1ccd00)_0x1ccd00=txtKLichHoc[_0x30ac0b(0x12f)];else{let _0x5e620a=getHostname(txtKLichHoc[_0x30ac0b(0x12f)]),_0x4d33ee=getHostname(schoolInformation[sltSchool['value']][_0x30ac0b(0x11b)]);if(_0x5e620a[_0x30ac0b(0xf9)]()!=_0x4d33ee['toLowerCase']()){showErrorDialog(_0x30ac0b(0x124));return;}}_0x1ccd00=_0x1ccd00[_0x30ac0b(0x101)]();if(_0x1ccd00['length']<0xa){showErrorDialog('Link\x20lịch\x20học\x20không\x20hợp\x20lệ!');return;}txtKLichHoc['value']=_0x1ccd00;let _0x16839c='https://schendar.1boxstudios.com/v2.0/gateway/generateToken.js?sc='+schoolInformation[sltSchool['value']]['sc']+_0x30ac0b(0x115)+txtKLichHoc[_0x30ac0b(0x12f)]+_0x30ac0b(0x12c);try{let _0x39ce12=await fetch(_0x16839c),_0x3d632e=await _0x39ce12['json']();if(_0x3d632e[_0x30ac0b(0xf4)]&&_0x3d632e['status']==0xc8)modalShowLich[_0x30ac0b(0xfa)](),$[_0x30ac0b(0x133)](_0x30ac0b(0xed))[_0x30ac0b(0xe8)]=_0x3d632e['data']['onlyStudy'],$[_0x30ac0b(0x133)](_0x30ac0b(0xfe))[_0x30ac0b(0xe8)]=_0x3d632e['data'][_0x30ac0b(0xf3)],$['getElementById'](_0x30ac0b(0x13c))[_0x30ac0b(0xe8)]=_0x3d632e[_0x30ac0b(0xe4)]['normal'],loadingSubmit(![]);else{showErrorDialog(_0x3d632e[_0x30ac0b(0xf6)]),loadingSubmit(![]);return;}}catch(_0x14bd53){showErrorDialog('Lỗi\x20không\x20xác\x20định!'),loadingSubmit(![]);return;}};const getNotiVer=()=>{var _0x18d062=_0x1d585a;return $[_0x18d062(0x133)](_0x18d062(0x11d))['getAttribute']('notiVer');};window[_0x1d585a(0xe2)]=()=>{var _0x36e732=_0x1d585a;modalShowLich=new bootstrap[(_0x36e732(0x110))](document['getElementById'](_0x36e732(0x10f)),{'keyboard':![]}),modalThongTin=new bootstrap[(_0x36e732(0x110))](document[_0x36e732(0x133)](_0x36e732(0x11d)),{'keyboard':![]}),lblTrangTraCuu=$[_0x36e732(0x133)](_0x36e732(0x103)),errMsg=$[_0x36e732(0x133)](_0x36e732(0x104)),alertMsg=$[_0x36e732(0x133)](_0x36e732(0xef)),formInputUrl=$['getElementById'](_0x36e732(0x105)),sltSchool=$['getElementById'](_0x36e732(0xe7)),sltSchool['onchange']=onChangeSchool,txtKLichHoc=$[_0x36e732(0x133)](_0x36e732(0x113)),lblUrl=$['getElementById'](_0x36e732(0x11a)),lblKLichHoc=$[_0x36e732(0x133)](_0x36e732(0x127)),btnSubmit=$[_0x36e732(0x133)](_0x36e732(0xe3)),frmGetLichHoc=$['getElementById'](_0x36e732(0x12e)),frmGetLichHoc[_0x36e732(0xfb)]=onSubmitFrmLicHoc,btnLichHocCopy=$[_0x36e732(0x133)](_0x36e732(0x122)),btnLichHocCopy[_0x36e732(0x10e)]=()=>{var _0x188f3f=_0x36e732;copyURL($[_0x188f3f(0x133)]('urlLichHoc'));},btnLichThiCopy=$[_0x36e732(0x133)](_0x36e732(0x100)),btnLichThiCopy['onclick']=()=>{var _0x402351=_0x36e732;copyURL($[_0x402351(0x133)](_0x402351(0xfe)));},btnLichHocThiCopy=$[_0x36e732(0x133)]('btnLichHocThiCopy'),btnLichHocThiCopy[_0x36e732(0x10e)]=()=>{var _0xe4e80d=_0x36e732;copyURL($['getElementById'](_0xe4e80d(0x13c)));},(!localStorage[_0x36e732(0x118)]('notiVer')||localStorage[_0x36e732(0x118)](_0x36e732(0x132))['toLowerCase']()!=getNotiVer()[_0x36e732(0xf9)]())&&(modalThongTin[_0x36e732(0xfa)](),localStorage[_0x36e732(0x117)]('notiVer',getNotiVer()));};
+     const x01277 = true;
+        
+		
+	function isValidURL(str) {
+	  const pattern = new RegExp('^(https?:\\/\\/)?' + // protocol
+		'((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.?)+[a-z]{2,}|' + // domain name
+		'((\\d{1,3}\\.){3}\\d{1,3}))' + // OR ip (v4) address
+		'(\\:\\d+)?(\\/[-a-z\\d%_.~+]*)*' + // port and path
+		'(\\?[;&a-z\\d%_.~+=-]*)?' + // query string
+		'(\\#[-a-z\\d_]*)?$', 'i'); // fragment locator
+	  return !!pattern.test(str);
+	}
+     function copyURL(txt) {
+
+         var content = txt;
+
+        content.select();
+        document.execCommand('copy');
+
+         alert("Copied!");
+         
+      }
+	const x01629=()=>{if (!x01277)debugger;}
+    setInterval(() => {x01629()}, 10);
+
+    function getParameterByName(name, url = window.location.href) {
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+    }
+    
+    const schoolInformation = [
+        {
+            "sc": "iuh",
+            "name": "Trường Đại học Công Nghiệp TP.HCM",
+            "tc": "https://sv.iuh.edu.vn/tra-cuu-thong-tin.html",
+            "urlChuan": "https://sv.iuh.edu.vn/tra-cuu/lich-hoc-tuan.html?k="
+        },
+        {
+            "sc": "ut",
+            "name": "Trường Đại học Giao Thông Vận Tải TP.HCM",
+            "tc": "https://sv.ut.edu.vn/tra-cuu-thong-tin.html",
+            "urlChuan": "https://sv.ut.edu.vn/tra-cuu/lich-hoc-tuan.html?k="
+        },
+        {
+            "sc": "gdu",
+            "name": "Trường Đại học Gia Định",
+            "tc": "https://sinhvien.giadinh.edu.vn/tra-cuu-thong-tin.html",
+            "urlChuan": "https://sinhvien.giadinh.edu.vn/tra-cuu/lich-hoc-tuan.html?k="
+        },
+        {
+            "sc": "ntt",
+            "name": "Trường Đại học Nguyễn Tất Thành",
+            "tc": "https://phongdaotao.ntt.edu.vn/tra-cuu-thong-tin.html",
+            "urlChuan": "https://phongdaotao.ntt.edu.vn/tra-cuu/lich-hoc-tuan.html?k="
+        }
+    ];
+
+    const $ = document;
+
+    var onChangeSchool = () =>{
+        let scIndex = sltSchool.value
+        if (scIndex == -1 || !schoolInformation[scIndex]) {
+            txtKLichHoc.disabled = true;
+            btnSubmit.disabled = false;
+            formInputUrl.classList.add("d-none");
+            lblTrangTraCuu.classList.add("d-none");
+            return;
+        }
+
+        formInputUrl.classList.remove("d-none");
+        lblTrangTraCuu.classList.remove("d-none");
+        
+        txtKLichHoc.disabled = false;
+        btnSubmit.disabled = false;
+
+        lblUrl.href = schoolInformation[scIndex].tc;
+        lblKLichHoc.innerText = schoolInformation[scIndex].urlChuan;
+
+    }
+
+
+    var loadingSubmit = (e) => {
+        if (e == true){
+            btnSubmit.innerHTML = '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Loading...';
+            btnSubmit.disabled = true;
+        }else{
+            btnSubmit.innerHTML = "Tạo lịch"
+            btnSubmit.disabled = false;
+        }
+    }
+
+    const getHostname = (url) => {
+        // use URL constructor and return hostname
+        return new URL(url).hostname;
+    }
+
+    var onSubmitFrmLicHoc = (e) => {
+        e.preventDefault();
+
+        loadingSubmit(true);
+        
+        getSchendar();
+
+    }
+
+    var showErrorDialog = (msg) => {
+        errMsg.innerText = msg;
+        alertMsg.classList.add("show");
+        alertMsg.classList.remove("d-none");
+		lblTrangTraCuu.classList.toggle("text-danger", true)
+		lblTrangTraCuu.classList.toggle("fs-4", true)
+		lblTrangTraCuu.classList.toggle("fw-bold", true)
+        loadingSubmit(false);
+
+    }
+
+    //https://schendar.1boxstudios.com/v2.0/gateway/generateToken.js?sc=ut&k=pbekzkCNs99D4hRJsLvuTrKCzVt7AeUhb0YmHxmFM&o=gntk
+
+    var getSchendar = async () => {
+
+        if (!schoolInformation[sltSchool.value]) {
+           showErrorDialog("Chưa chọn trường!");
+            return;
+        }
+        if (!txtKLichHoc.value) {
+            showErrorDialog("Chưa điền đủ thông tin, hãy kiểm tra lại!");
+            return;
+        }
+
+        let getK = getParameterByName("k", txtKLichHoc.value);
+        if (!getK) {
+            getK = txtKLichHoc.value;
+			
+			if (isValidURL(getK)){
+                showErrorDialog("Link phải lấy từ trang tra cứu. Hãy đọc kỹ hướng dẫn!");
+                return;
+			}
+			
+        }else {
+            let hostInput = getHostname(txtKLichHoc.value);
+            let host = getHostname(schoolInformation[sltSchool.value].urlChuan);
+            if (hostInput.toLowerCase() != host.toLowerCase()){
+                showErrorDialog("Kiểm tra lại trường học của bạn!");
+                return;
+            }
+        }
+        getK = getK.trim();
+
+        if (getK.length < 10){
+            showErrorDialog("Link lịch học không hợp lệ! Vui lòng đọc kỹ hướng dẫn");
+            return;
+        }
+        txtKLichHoc.value = getK;
+
+        let url = "https://schendar.1boxstudios.com/v2.0/gateway/generateToken.js?sc=" + schoolInformation[sltSchool.value].sc  + "&k=" + txtKLichHoc.value +"&o=gntk";
+        
+        try {
+            let res = await fetch(url);
+            let obj = await res.json();
+
+            if (obj.status && obj.status == 200){
+                modalShowLich.show();
+                $.getElementById("urlLichHoc").innerText = obj.data.onlyStudy;
+                $.getElementById("urlLichThi").innerText = obj.data.onlyExams;
+                $.getElementById("urlLichHocThi").innerText = obj.data.normal;
+                loadingSubmit(false);
+
+            }else{
+                showErrorDialog(obj.error);
+                loadingSubmit(false);
+                return;
+            }
+        }catch(err){
+            showErrorDialog("Lỗi không xác định!");
+            loadingSubmit(false);
+            return;
+        }
+
+}
+    
+const getNotiVer = () => {
+    return $.getElementById("modalThongTin").getAttribute("notiVer");
+}
+
+window.onload = () => {
+    
+        modalShowLich = new bootstrap.Modal(document.getElementById('modalShowLich'), {
+            keyboard: false
+        })
+
+        modalThongTin = new bootstrap.Modal(document.getElementById('modalThongTin'), {
+            keyboard: false
+        })
+
+        lblTrangTraCuu = $.getElementById("lblTrangTraCuu");
+        errMsg = $.getElementById("errMsg");
+        alertMsg = $.getElementById("alertMsg");
+
+        formInputUrl = $.getElementById("formInputUrl");
+
+        sltSchool = $.getElementById("sltSchool");
+        sltSchool.onchange = onChangeSchool;
+
+        txtKLichHoc = $.getElementById("txtKLichHoc");
+
+        lblUrl = $.getElementById("lblUrl");
+        lblKLichHoc = $.getElementById("lblKLichHoc");
+
+        btnSubmit = $.getElementById("btnSubmit");
+
+        frmGetLichHoc = $.getElementById("frmGetLichHoc");
+
+        frmGetLichHoc.onsubmit = onSubmitFrmLicHoc;
+
+        btnLichHocCopy = $.getElementById("btnLichHocCopy");
+        btnLichHocCopy.onclick = () => {
+            copyURL($.getElementById("urlLichHoc"));
+        }
+
+        btnLichThiCopy = $.getElementById("btnLichThiCopy");
+        btnLichThiCopy.onclick = () => {
+            copyURL($.getElementById("urlLichThi"));
+        }
+
+        btnLichHocThiCopy = $.getElementById("btnLichHocThiCopy");
+        btnLichHocThiCopy.onclick = () => {
+            copyURL($.getElementById("urlLichHocThi"));
+        }
+
+        
+        if (!localStorage.getItem("notiVer") || localStorage.getItem("notiVer").toLowerCase() != getNotiVer().toLowerCase()) {
+            modalThongTin.show();
+            localStorage.setItem("notiVer", getNotiVer());
+        }
+
+       
+    }
