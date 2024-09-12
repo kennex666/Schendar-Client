@@ -13,14 +13,15 @@ Trước đây cũng có ứng dụng báo lịch IUH của tác giả Tran Hong
 
 ## CÁC VẤN ĐỀ LIÊN QUAN ĐẾN THÔNG TIN, ĐIỀU KHOẢN SỬ DỤNG
 1. Lịch học IUH không lưu trữ dữ liệu của bạn trên máy chủ. Dữ liệu được cập nhật thông qua *key và không lưu trữ trên máy chủ nhằm bảo mật thông tin và tiết kiệm không gian lưu trữ dữ liệu.
-2. Việc cung cấp khoá (key) trên page là tự nguyện. Chúng tôi không thu thập dữ liệu này, tuy nhiên nếu có lỗi trong một số trường hợp cụ thể và bạn yêu cầu hỗ trợ kiểm tra, chúng tôi được phép truy cập để lấy mẫu dữ liệu nhằm mục đích cải tiến sản phẩm.
-3. Bạn có quyền từ chối cung cấp thông tin nếu cảm thấy không an toàn.
-4. Chúng tôi không đảm bảo dữ liệu được cập nhật theo thời gian thực và sản phẩm có thể bị tạm ngưng nếu trường yêu cầu hoặc vì lí do khác như trường thay đổi phương thức cập nhật lịch.
-5. Page này hỗ trợ thiết lập lịch học cho sinh viên trường Đại học Công nghiệp nhằm hỗ trợ các bạn muốn chủ động sắp xếp lịch trình dễ dàng hơn.
-6. Mặc dù không lưu trữ thông tin trên máy chủ, nhưng chúng tôi không đảm bảo việc máy chủ có thể bị hack dẫn đến lịch trình bị sai hoặc các trường hợp ngoài ý muốn. Trong trường hợp này, chúng tôi không chịu trách nhiệm dưới mọi hình thức.
-7. Lịch học IUH hoàn toàn không yêu cầu cung cấp thông tin cá nhân (tài khoản và mật khẩu). Nếu bạn vô tình phát hiện một trang có chức năng tương tự, hãy cẩn trọng khi cung cấp các thông tin nhạy cảm.
-8. Các domain được xác nhận có trong dự án **Schendar**: `1boxstudios.cf` (bị xoá từ tháng 02/2024), `1boxstudios.com`, `dtbao.io.vn`
-9. Bổ sung điều khoản (2024):
+2. [Cũ - Không áp dụng với sản phẩm mới] Việc cung cấp khoá (key) trên page là tự nguyện. Chúng tôi không thu thập dữ liệu này, tuy nhiên nếu có lỗi trong một số trường hợp cụ thể và bạn yêu cầu hỗ trợ kiểm tra, chúng tôi được phép truy cập để lấy mẫu dữ liệu nhằm mục đích cải tiến sản phẩm.
+3. [Mới - Thay đổi cho điều 2] Việc cung cấp khoá (key) của trang sinh viên là tự nguyện. Website không chủ động thu thập thông tin này, có nghĩa Schendar hoàn toàn không sử dụng thông tin này với mục đích truy cập & cải tiến sản phẩm (Trừ trường hợp cung cấp qua email, Facebook để mình hỗ trợ). Chính sách ở điều 2 là điều khoản cũ do bản trước gửi qua Messenger để bot setup.
+4. Bạn có quyền từ chối cung cấp thông tin nếu cảm thấy không an toàn.
+5. Chúng tôi không đảm bảo dữ liệu được cập nhật theo thời gian thực và sản phẩm có thể bị tạm ngưng nếu trường yêu cầu hoặc vì lí do khác như trường thay đổi phương thức cập nhật lịch.
+6. Page này hỗ trợ thiết lập lịch học cho sinh viên trường Đại học Công nghiệp (và các trường khác) nhằm hỗ trợ các bạn muốn chủ động sắp xếp lịch trình dễ dàng hơn.
+7. Mặc dù không lưu trữ thông tin trên máy chủ, nhưng chúng tôi không đảm bảo việc máy chủ có thể bị hack dẫn đến lịch trình bị sai hoặc các trường hợp ngoài ý muốn. Trong trường hợp này, chúng tôi không chịu trách nhiệm dưới mọi hình thức.
+8. Lịch học IUH hoàn toàn không yêu cầu cung cấp thông tin cá nhân (tài khoản và mật khẩu). Nếu bạn vô tình phát hiện một trang có chức năng tương tự, hãy cẩn trọng khi cung cấp các thông tin nhạy cảm.
+9. Các domain được xác nhận có trong dự án **Schendar**: `1boxstudios.cf` (bị xoá từ tháng 02/2024), `1boxstudios.com`, `dtbao.io.vn`
+10. Bổ sung điều khoản (2024):
 
   * Từ đầu năm 2024, lịch học IUH mở rộng thêm các trường khác. Vì mỗi trường có thể sẽ mỗi khác, chúng tôi không đảm bảo lịch sẽ luôn ổn định với mọi trường, nhưng sẽ cố gắng sửa nếu xảy ra vấn đề, xin hãy báo cáo lại đến schendar@1boxstudios.com
 
