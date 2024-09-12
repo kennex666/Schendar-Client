@@ -31,3 +31,5 @@ Trước đây cũng có ứng dụng báo lịch IUH của tác giả Tran Hong
 
   * Sản phẩm ban đầu sử dụng cho mục đích cá nhân, nhưng vì thấy hữu ích nên chia sẻ cho cộng đồng sinh viên - và không thương mại. Vì vậy, với mọi trường hợp, Schendar không chịu trách nhiệm liên quan.
 
+  * Mã nguồn mở, vui lòng xem tại: https://github.com/kennex666/IUH-Calendar-FullSource
+
