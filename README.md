@@ -13,8 +13,8 @@ Trước đây cũng có ứng dụng báo lịch IUH của tác giả Tran Hong
 
 ## CÁC VẤN ĐỀ LIÊN QUAN ĐẾN THÔNG TIN, ĐIỀU KHOẢN SỬ DỤNG
 1. Lịch học IUH không lưu trữ dữ liệu của bạn trên máy chủ. Dữ liệu được cập nhật thông qua *key và không lưu trữ trên máy chủ nhằm bảo mật thông tin và tiết kiệm không gian lưu trữ dữ liệu.
-2. [Cũ - Không áp dụng với sản phẩm mới] Việc cung cấp khoá (key) trên page là tự nguyện. Chúng tôi không thu thập dữ liệu này, tuy nhiên nếu có lỗi trong một số trường hợp cụ thể và bạn yêu cầu hỗ trợ kiểm tra, chúng tôi được phép truy cập để lấy mẫu dữ liệu nhằm mục đích cải tiến sản phẩm.
-3. [Mới - Thay đổi cho điều 2] Việc cung cấp khoá (key) của trang sinh viên là tự nguyện. Website không chủ động thu thập thông tin này, có nghĩa Schendar hoàn toàn không sử dụng thông tin này với mục đích truy cập & cải tiến sản phẩm (Trừ trường hợp cung cấp qua email, Facebook để mình hỗ trợ). Chính sách ở điều 2 là điều khoản cũ do bản trước gửi qua Messenger để bot setup.
+2. **[Cũ - Không áp dụng với sản phẩm mới]** Việc cung cấp khoá (key) trên page là tự nguyện. Chúng tôi không thu thập dữ liệu này, tuy nhiên nếu có lỗi trong một số trường hợp cụ thể và bạn yêu cầu hỗ trợ kiểm tra, chúng tôi được phép truy cập để lấy mẫu dữ liệu nhằm mục đích cải tiến sản phẩm.
+3. **[Mới - Thay đổi cho điều 2]** Việc cung cấp khoá (key) của trang sinh viên là tự nguyện. Website không chủ động thu thập thông tin này, có nghĩa Schendar hoàn toàn không sử dụng thông tin này với mục đích truy cập & cải tiến sản phẩm (Trừ trường hợp cung cấp qua email, Facebook để mình hỗ trợ). Chính sách ở điều 2 là điều khoản cũ do bản trước gửi qua Messenger để bot setup.
 4. Bạn có quyền từ chối cung cấp thông tin nếu cảm thấy không an toàn.
 5. Chúng tôi không đảm bảo dữ liệu được cập nhật theo thời gian thực và sản phẩm có thể bị tạm ngưng nếu trường yêu cầu hoặc vì lí do khác như trường thay đổi phương thức cập nhật lịch.
 6. Page này hỗ trợ thiết lập lịch học cho sinh viên trường Đại học Công nghiệp (và các trường khác) nhằm hỗ trợ các bạn muốn chủ động sắp xếp lịch trình dễ dàng hơn.
