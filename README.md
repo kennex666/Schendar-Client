@@ -28,3 +28,5 @@ Trước đây cũng có ứng dụng báo lịch IUH của tác giả Tran Hong
   
   * Sản phẩm chỉ hỗ trợ quản lý lịch trình, và được thử nghiệm từ giai đoạn 2022, và vẫn ổn định cho đến 12/09/2024. Trước đến hiện tại mình chưa bị sai lịch, nhưng nếu nhà trường/bên ASC thay đổi thì có thể gây ra sự cố không mong muốn.
 
+  * Sản phẩm ban đầu sử dụng cho mục đích cá nhân, nhưng vì thấy hữu ích nên chia sẻ cho cộng đồng sinh viên - và không thương mại. Vì vậy, với mọi trường hợp, Schendar không chịu trách nhiệm liên quan.
+
