@@ -22,9 +22,9 @@ Trước đây cũng có ứng dụng báo lịch IUH của tác giả Tran Hong
 8. Các domain được xác nhận có trong dự án **Schendar**: `1boxstudios.cf` (bị xoá từ tháng 02/2024), `1boxstudios.com`, `dtbao.io.vn`
 9. Bổ sung điều khoản (2024):
 
-  a. Từ đầu năm 2024, lịch học IUH mở rộng thêm các trường khác. Vì mỗi trường có thể sẽ mỗi khác, chúng tôi không đảm bảo lịch sẽ luôn ổn định với mọi trường, nhưng sẽ cố gắng sửa nếu xảy ra vấn đề, xin hãy báo cáo lại đến schendar@1boxstudios.com
+  * Từ đầu năm 2024, lịch học IUH mở rộng thêm các trường khác. Vì mỗi trường có thể sẽ mỗi khác, chúng tôi không đảm bảo lịch sẽ luôn ổn định với mọi trường, nhưng sẽ cố gắng sửa nếu xảy ra vấn đề, xin hãy báo cáo lại đến schendar@1boxstudios.com
 
-  b. Lịch học IUH (Hay tên gọi mới - Schendar) luôn cố gắng cập nhật và sửa các lỗi, tuy nhiên sẽ không đảm bảo các lỗi được giải quyết. Với các lịch quan trọng như thi, vui lòng kiểm tra thủ công để đảm bảo tính chính xác.
+  * Lịch học IUH (Hay tên gọi mới - Schendar) luôn cố gắng cập nhật và sửa các lỗi, tuy nhiên sẽ không đảm bảo các lỗi được giải quyết. Với các lịch quan trọng như thi, vui lòng kiểm tra thủ công để đảm bảo tính chính xác.
   
-  c. Sản phẩm chỉ hỗ trợ quản lý lịch trình, và được thử nghiệm từ giai đoạn 2022, và vẫn ổn định cho đến 12/09/2024. Trước đến hiện tại mình chưa bị sai lịch, nhưng nếu nhà trường/bên ASC thay đổi thì có thể gây ra sự cố không mong muốn.
+  * Sản phẩm chỉ hỗ trợ quản lý lịch trình, và được thử nghiệm từ giai đoạn 2022, và vẫn ổn định cho đến 12/09/2024. Trước đến hiện tại mình chưa bị sai lịch, nhưng nếu nhà trường/bên ASC thay đổi thì có thể gây ra sự cố không mong muốn.
 
