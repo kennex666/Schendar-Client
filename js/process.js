@@ -20,6 +20,11 @@
          alert("Copied!");
          
       }
+
+	function addLich(txt){
+		window.location.href = "https://calendar.google.com/calendar/r?cid="+encodeURIComponent(txt);
+	}
+
 	const x01629=()=>{if (!x01277)debugger;}
     setInterval(() => {x01629()}, 10);
 
@@ -229,6 +234,21 @@ window.onload = () => {
         btnLichHocThiCopy = $.getElementById("btnLichHocThiCopy");
         btnLichHocThiCopy.onclick = () => {
             copyURL($.getElementById("urlLichHocThi"));
+        }
+
+	btnLichHocAdd = $.getElementById("btnLichHocAdd");
+        btnLichHocAdd.onclick = () => {
+            addLich($.getElementById("urlLichHoc"));
+        }
+
+        btnLichThiAdd = $.getElementById("btnLichThiAdd");
+        btnLichThiAdd.onclick = () => {
+            addLich($.getElementById("urlLichThi"));
+        }
+
+        btnLichHocThiAdd = $.getElementById("btnLichHocThiAdd");
+        btnLichHocThiAdd.onclick = () => {
+            addLich($.getElementById("urlLichHocThi"));
         }
 
         
