@@ -22,7 +22,7 @@
       }
 
 	function addLich(txt){
-		window.location.href = "https://calendar.google.com/calendar/r?cid="+encodeURIComponent(txt);
+		window.open("https://calendar.google.com/calendar/r?cid="+encodeURIComponent(txt), "_blank");
 	}
 
 	const x01629=()=>{if (!x01277)debugger;}
