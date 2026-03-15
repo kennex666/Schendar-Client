@@ -113,79 +113,19 @@
     }
 
     var showErrorDialog = (msg) => {
-        errMsg.innerText = msg;
+        errMsg.innerHTML = "<div>Dự án Schendar đã bị khai tử kể từ ngày 15/03/2026, bạn sẽ không thể tạo lịch hoặc sử dụng dự án này nữa.<br>Thông tin chi tiết: <a href="https://www.facebook.com/iuhCalendar/posts/pfbid02jSLz91W9R6nRJ7VybLW8L19YrV9EqmWtc2GNHLLwVDocHYqHWeZNwuTCYwN3hyVul" target="_blank">Xem tại đây</a></div>";
         alertMsg.classList.add("show");
         alertMsg.classList.remove("d-none");
 		lblTrangTraCuu.classList.toggle("text-danger", true)
 		lblTrangTraCuu.classList.toggle("fs-4", true)
 		lblTrangTraCuu.classList.toggle("fw-bold", true)
         loadingSubmit(false);
-
     }
 
-    //https://schendar.1boxstudios.com/v2.0/gateway/generateToken.js?sc=ut&k=pbekzkCNs99D4hRJsLvuTrKCzVt7AeUhb0YmHxmFM&o=gntk
 
     var getSchendar = async () => {
-
-        if (!schoolInformation[sltSchool.value]) {
-           showErrorDialog("Chưa chọn trường!");
-            return;
-        }
-        if (!txtKLichHoc.value) {
-            showErrorDialog("Chưa điền đủ thông tin, hãy kiểm tra lại!");
-            return;
-        }
-
-        let getK = getParameterByName("k", txtKLichHoc.value);
-        if (!getK) {
-            getK = txtKLichHoc.value;
-			
-			if (isValidURL(getK)){
-                showErrorDialog("Link phải lấy từ trang tra cứu. Hãy đọc kỹ hướng dẫn!");
-                return;
-			}
-			
-        }else {
-            let hostInput = getHostname(txtKLichHoc.value);
-            let host = getHostname(schoolInformation[sltSchool.value].urlChuan);
-            if (hostInput.toLowerCase() != host.toLowerCase()){
-                showErrorDialog("Kiểm tra lại trường học của bạn!");
-                return;
-            }
-        }
-        getK = getK.trim();
-
-        if (getK.length < 10){
-            showErrorDialog("Link lịch học không hợp lệ! Vui lòng đọc kỹ hướng dẫn");
-            return;
-        }
-        txtKLichHoc.value = getK;
-
-        let url = "https://schendar.1boxstudios.com/v2.0/gateway/generateToken.js?sc=" + schoolInformation[sltSchool.value].sc  + "&k=" + txtKLichHoc.value +"&o=gntk";
-        
-        try {
-            let res = await fetch(url);
-            let obj = await res.json();
-
-            if (obj.status && obj.status == 200){
-                modalShowLich.show();
-                $.getElementById("urlLichHoc").innerText = obj.data.onlyStudy;
-                $.getElementById("urlLichThi").innerText = obj.data.onlyExams;
-                $.getElementById("urlLichHocThi").innerText = obj.data.normal;
-                loadingSubmit(false);
-
-            }else{
-                showErrorDialog(obj.error);
-                loadingSubmit(false);
-                return;
-            }
-        }catch(err){
-            showErrorDialog("Lỗi không xác định!");
-            loadingSubmit(false);
-            return;
-        }
-
-}
+		showErrorDialog("This project is End of Life | Dự án này đã dừng hỗ trợ");
+	}
     
 const getNotiVer = () => {
     return $.getElementById("modalThongTin").getAttribute("notiVer");
